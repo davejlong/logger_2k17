@@ -1,6 +1,6 @@
 # Logger2k17
 
-**TODO: Add description**
+Finally, a Logger that understands the lingo of modern times. No more of those meaningless log methods like `info` and `warn`. Now just use common terms like `fyi` and `wtf`. Want to log a message that's just for the engineers to see what's going on? Don't `debug` it. `wharrgarbl` it!
 
 ## Installation
 
@@ -16,4 +16,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at [https://hexdocs.pm/logger_2k17](https://hexdocs.pm/logger_2k17).
-
